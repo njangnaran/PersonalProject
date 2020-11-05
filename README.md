@@ -9,3 +9,10 @@
 ![samsung23](https://user-images.githubusercontent.com/62640011/98225687-5ff03580-1f98-11eb-95a2-a34dc63a14f6.PNG)
 
 중앙 화면 역시 반응형으로 display가 바뀌게 했습니다.
+
+
+![samsung3](https://user-images.githubusercontent.com/62640011/98229757-a8f6b880-1f9d-11eb-965d-d497bc4d6451.PNG)
+해당 이미지를 클릭시 나오는 페이지이며
+
+![samsung4](https://user-images.githubusercontent.com/62640011/98229743-a3996e00-1f9d-11eb-94ce-04927e4bf658.PNG)
+마우스를 내렸을시 이미지가 나오게 했습니다.
