@@ -7,4 +7,5 @@
 반응형을 이용하여 화면이 줄었을때 헤더 모양을 변형 시켯고 클릭시 헤더 메뉴가 나타나게 했습니다.
 
 ![samsung23](https://user-images.githubusercontent.com/62640011/98225687-5ff03580-1f98-11eb-95a2-a34dc63a14f6.PNG)
+
 중앙 화면 역시 반응형으로 display가 바뀌게 했습니다.
